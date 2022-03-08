@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Krimsonpetalz
+- 👀 I’m interested in coding, gaming, reading, drawing, gardening.
+- 🌱 I’m currently learning basic code, python, javascript.
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me: krimsonpetalz@gmail.com
